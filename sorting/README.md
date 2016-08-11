@@ -1,1 +1,1 @@
-COntains Implemenations of some sorting algorithms.
+Contains Implemenations of some sorting algorithms.

@@ -1,1 +1,1 @@
-Contains Implemenations of some sorting algorithms.
+Contains scripts for some popular sorting algorithms.
